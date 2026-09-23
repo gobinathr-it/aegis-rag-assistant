@@ -8,4 +8,4 @@ __pycache__
 frontend/node_modules
 .vscode
 .env.example
-*.md
+README.md
